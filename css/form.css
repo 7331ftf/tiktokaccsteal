@@ -1,0 +1,85 @@
+body{
+background-color:#fafafa;
+}
+
+.gif{
+max-width:40%; 
+border-radius:50%;
+}
+
+.h1{
+font-family:sans-serif;
+font-weight:400;
+letter-spacing:;
+color:#3d3d3d;
+font-size:25px;
+}
+
+.container{
+background-color:white;
+width:300px;
+border:1px solid #cecece;
+}
+
+.p{
+font-family:sans-serif;
+color:#999;
+width:270px;
+}
+
+.button{
+color:white;
+background-color:red;
+font-size:16px;
+border-radius:3px;
+outline:none;
+font-family:sans-serif;
+font-weight:700;
+border:0;
+width:200px;
+height:40px;
+max-width:99%;
+max-height:50px;
+}
+
+.bg1{
+padding:6px;
+background:#fafafa;
+outline:none;text-align:center;
+width:83%;
+height:37px;
+border:1px solid #dedede;
+font-family:sans-serif;
+font-weight:350;
+flex: 1 0 0px;
+margin: 0;
+outline: 0;
+overflow: hidden;
+padding: 9px 0 7px 8px;
+text-overflow: ellipsis;
+border: 1px solid #e6e6e6;
+text-overflow: ellipsis;
+font: 400 13.3333px Arial;
+border-radius:3px;
+}
+
+.bg2{
+padding:6px; 
+background:#fafafa; 
+outline:none;
+width:83%; 
+height:37px; 
+border:1px solid #dedede; 
+font-family:sans-serif;
+font-weight:350;     
+flex: 1 0 0px;
+margin: 0;
+outline: 0;
+overflow: hidden;
+padding: 9px 0 7px 8px;
+text-overflow: ellipsis;
+border: 1px solid #e6e6e6;    
+text-overflow: ellipsis;
+font: 400 13.3333px Arial; 
+border-radius:3px;
+}
